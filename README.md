@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Shukla</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-k-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-k-shukla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-k-shukla" alt="ayush-k-shukla" /></a> </p>
-
 - 📫 How to reach me **shuklaayushkumar27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
