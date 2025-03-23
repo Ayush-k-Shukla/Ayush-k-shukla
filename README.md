@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Ayush Kumar Shukla</h1>
 
-## Full-Stack Developer | Frontend Enthusiast | Problem Solver
+## Full-Stack Developer | Problem Solver
 
 Welcome to my GitHub! I'm Ayush Kumar Shukla, a passionate **Full-Stack Developer** with expertise in building secure, scalable, and high-performance web applications. I specialize in **React, Vue, Node.js, and TypeScript** while also having a strong foundation in backend development.
 
