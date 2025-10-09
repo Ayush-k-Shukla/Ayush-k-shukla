@@ -6,14 +6,14 @@ Welcome to my GitHub! I'm Ayush Kumar Shukla, a passionate **Full-Stack Develope
 
 ### 🔥 **What I Do**
 - Build **user-friendly UIs** and scalable web apps using **React, Vue, and Material-UI**.
-- Design **secure and optimized APIs** with **Node.js, NestJS, and MongoDB**.
+- Design **secure and optimized APIs** with **Node.js, NestJS, Spring Boot and MongoDB**.
 - Ensure high-quality code with **Jest, Cypress, and Vitest**.
 - Solve **complex algorithms and data structures** (740+ Leetcode problems solved).
-- Work with **Grafana, Prometheus, and Sitecore** for enhanced observability.
+- Work with **Grafana, Prometheus, Superset and Sitecore** for enhanced observability.
 
 ### ⚡ **Tech Stack**
 - **Frontend:** React.js, Vue.js, Redux, Pinia, TypeScript, Tailwind, Material-UI  
-- **Backend:** Node.js, NestJS, Express, MongoDB  
+- **Backend:** Node.js, NestJS, Express, Spring Boot, MongoDB  
 - **Testing:** Jest, Cypress, Vitest  
 - **Others:** Grafana, Dremio, SonarQube, Sendgrid  
 
