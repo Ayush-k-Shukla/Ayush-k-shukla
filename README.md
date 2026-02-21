@@ -27,6 +27,7 @@ Welcome to my GitHub! I'm Ayush Kumar Shukla, a passionate **Full-Stack Develope
 
 # 📊 GitHub Stats:
 <p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ayush-k-shukla&theme=dark" alt="GitHub Streak" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-k-shukla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Ayush-k-shukla&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200" />
 </p>
